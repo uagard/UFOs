@@ -31,4 +31,4 @@ In order to conduct a search, the user only needs to the required info in the 'd
 
 ## Summary:
 
-WHile doing this project, drawback to the design. It is a possibility that the average user would not realize that the site has the capability to 'refresh' the table. The two items on this webpage I would recommend changing is to make it more user-friendly. First I would recommend the location of the 'UFO Sightings' button to below the criteria input boxes. Secondly I would recommend making the button stand out more in order to help the user navigate the site better.
+While doing this project, drawback to the design. It is a possibility that the average user would not realize that the site has the capability to 'refresh' the table. The two items on this webpage I would recommend changing is to make it more user-friendly. First I would recommend the location of the 'UFO Sightings' button to below the criteria input boxes. Secondly I would recommend making the button stand out more in order to help the user navigate the site better.
