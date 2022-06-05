@@ -16,9 +16,9 @@ On the app.js, a variable was created to keep track of all the filters as an obj
 
 The function was afterwards called to apply all filters and rebuild the table. Function filterTable was used to filter the table when the data is entered. The filtered data was then set to tableData. Afterwards I used the following:
 
-# Object.entries(filters).forEach(([key, value]) = { 
-# filteredData=filteredData.filter(row=>row[key]===value);
-# });
+Object.entries(filters).forEach(([key, value]) = { 
+filteredData=filteredData.filter(row=>row[key]===value);
+});
 
 this would allow me to loop through all of the filters and keep any data that matches the filter values. Finally, the table was rebuilt using the filtered data. Also, an event to listen for changes to each filter was also attached. Finally the table will be built when the page loads. 
 
